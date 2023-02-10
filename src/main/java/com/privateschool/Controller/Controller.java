@@ -1,6 +1,5 @@
 package Controller;
 
-// sdf
 import java.util.Scanner;
 
 import Database.MyDatabase;
